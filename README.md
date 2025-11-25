@@ -1,4 +1,5 @@
 This is my attempt at a script to automate setup of the npu and testing of it on Orange Pi 6 Plus only. 
+This is a large download have 100gb available.
 
 First setup a python venv. 
 
